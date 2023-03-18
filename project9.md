@@ -109,7 +109,7 @@ This job will will be triggered by ***GitHub webhooks*** and will execute a ***â
 * Click "Configure" your job/project and add these two configurations
 Configure triggering the job from GitHub webhook:
 
-![console-output-success.PNG](./images/archive-all.PNG)
+![buildtrigger.PNG](./images/buildtrigger.PNG)
 Build-action.PNG
 
 * Configure "Post-build Actions" to archive all the files â€“ files resulted from a build are called "artifacts".
